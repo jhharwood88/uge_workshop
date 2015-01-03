@@ -1,3 +1,18 @@
+   hidden files and folders start with a .
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
     1  pwd
     2  cd c:
     3  cd c:/
