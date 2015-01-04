@@ -22,3 +22,7 @@ shell prevents user acces to kernel, protects from kernel intrusion
 
 
 with git make sure when making .git folder make sure its in the proper folder ( ie  not home) 	
+
+branches are the tops of the git details
+
+git hub is linked with origion through master tree
