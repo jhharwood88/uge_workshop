@@ -1,0 +1,28 @@
+git/unx 1/3 cf
+
+unix kernel - 
+	*just a program, manages hardware
+
+other program
+/
+Kernel - device request resource management
+/
+Cpu | ram | devices
+
+(requires pw for changes on kernel)
+	
+
+
+Unx Shell - 
+	* user interfeace for kernel
+	(og cmd line only/now grapic&multi touch&audible) -all shells
+
+shell prevents user acces to kernel, protects from kernel intrusion
+
+
+
+with git make sure when making .git folder make sure its in the proper folder ( ie  not home) 	
+
+branches are the tops of the git details
+
+git hub is linked with origion through master tree
